@@ -1,0 +1,15 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\bin\Debug\net6.0\bucles.exe
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\bin\Debug\net6.0\bucles.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\bin\Debug\net6.0\bucles.runtimeconfig.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\bin\Debug\net6.0\bucles.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\bin\Debug\net6.0\bucles.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\refint\bucles.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\bucles.genruntimeconfig.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\bucles\obj\Debug\net6.0\ref\bucles.dll
