@@ -1,0 +1,15 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\bin\Debug\net6.0\finally.exe
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\bin\Debug\net6.0\finally.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\bin\Debug\net6.0\finally.runtimeconfig.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\bin\Debug\net6.0\finally.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\bin\Debug\net6.0\finally.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\refint\finally.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\finally.genruntimeconfig.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\finally\obj\Debug\net6.0\ref\finally.dll
