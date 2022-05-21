@@ -1,0 +1,36 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\bin\Debug\net6.0\POO2.exe
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\bin\Debug\net6.0\POO2.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\bin\Debug\net6.0\POO2.runtimeconfig.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\bin\Debug\net6.0\POO2.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\bin\Debug\net6.0\POO2.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\bin\Debug\net6.0\clases.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\bin\Debug\net6.0\clases.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.csproj.CopyComplete
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\refint\POO2.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\POO2.genruntimeconfig.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\POO2\obj\Debug\net6.0\ref\POO2.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\bin\Debug\net6.0\POO2.exe
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\bin\Debug\net6.0\POO2.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\bin\Debug\net6.0\POO2.runtimeconfig.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\bin\Debug\net6.0\POO2.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\bin\Debug\net6.0\POO2.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\bin\Debug\net6.0\clases.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\bin\Debug\net6.0\clases.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.csproj.CopyComplete
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\refint\POO2.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\POO2.genruntimeconfig.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\arrays\obj\Debug\net6.0\ref\POO2.dll
