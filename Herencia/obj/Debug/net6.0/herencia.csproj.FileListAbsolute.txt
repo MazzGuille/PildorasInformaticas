@@ -1,0 +1,15 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\bin\Debug\net6.0\herencia.exe
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\bin\Debug\net6.0\herencia.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\bin\Debug\net6.0\herencia.runtimeconfig.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\bin\Debug\net6.0\herencia.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\bin\Debug\net6.0\herencia.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\refint\herencia.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\herencia.genruntimeconfig.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herencia\obj\Debug\net6.0\ref\herencia.dll
