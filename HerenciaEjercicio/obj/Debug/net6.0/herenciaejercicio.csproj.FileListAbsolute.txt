@@ -1,0 +1,15 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\bin\Debug\net6.0\herenciaejercicio.exe
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\bin\Debug\net6.0\herenciaejercicio.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\bin\Debug\net6.0\herenciaejercicio.runtimeconfig.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\bin\Debug\net6.0\herenciaejercicio.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\bin\Debug\net6.0\herenciaejercicio.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\refint\herenciaejercicio.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\herenciaejercicio.genruntimeconfig.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\PildorasInformaticas\herenciaejercicio\obj\Debug\net6.0\ref\herenciaejercicio.dll

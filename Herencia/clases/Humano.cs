@@ -1,6 +1,3 @@
-using static System.Console;
-
-
 namespace Herencia
 {
     class Humano : Mamiferos
@@ -9,9 +6,10 @@ namespace Herencia
         {
 
         }
-        public void Pensar()
+        public override void Pensar()
         {
-            WriteLine("Soy capaz de pensar");
+            WriteLine("Soy capaz de pensar instintiva y logicamente");
+            
         }
     }
 }

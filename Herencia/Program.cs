@@ -1,5 +1,4 @@
-﻿using Herencia;
-using static System.Console;
+﻿
 
 Clear();
 
@@ -24,6 +23,11 @@ lab[2] = humano3;
 lab[3] = perro1;
 lab[4] = caballo1;
 lab[5] = gorila1;
+
+for(int i = 0; i < 6; i++)
+{
+    lab[i].Pensar();
+}
 
 
 

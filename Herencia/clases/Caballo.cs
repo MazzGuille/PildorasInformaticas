@@ -1,6 +1,3 @@
-using static System.Console;
-
-
 namespace Herencia 
 {
     class Caballo : Mamiferos

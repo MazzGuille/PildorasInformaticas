@@ -1,6 +1,3 @@
-using static System.Console;
-
-
 namespace Herencia
 {
     class Mamiferos
@@ -15,9 +12,14 @@ namespace Herencia
             nombreSerVivo = nombre;
             numeroDeOjos = ojos;
         }
-        public void Respirar()
+        protected void Respirar()
         {
             WriteLine("Soy capaz de respirar");
+        }
+
+        public virtual void Pensar()
+        {
+            WriteLine("Pensamiento basico e instintivo");
         }
 
         public void CuidarCrias()

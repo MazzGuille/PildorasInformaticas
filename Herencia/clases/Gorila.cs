@@ -1,6 +1,3 @@
-using static System.Console;
-
-
 namespace Herencia
 {
     class Gorila : Mamiferos
@@ -13,5 +10,10 @@ namespace Herencia
        {
            WriteLine("Soy capaz de trepar");
        } 
+
+       public override void Pensar()
+       {
+           WriteLine("Tengo un pensamiento instintivo avanzado");
+       }
     }
 }
