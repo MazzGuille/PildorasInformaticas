@@ -2,7 +2,9 @@
 Avion avion1 = new();
 Persona persona1 = new();
 
+carro1.Encender();
 WriteLine(carro1.AndarPorLaCiudad);
+carro1.Apagar();
 WriteLine();
 avion1.Encender();
 WriteLine(avion1.Volar);
